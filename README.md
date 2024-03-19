@@ -2,6 +2,10 @@
 Figma Interface Design
 
 
+![Screenshot 2024-03-18 at 11 36 53 PM](https://github.com/tusharC95/Soulgrowth_App/assets/64319078/40ffca44-62c3-4a68-97ec-77d100b42b44)
+
+
+
 <h3><b><ins>References</ins></b></h3> 
 
 <h6> 
